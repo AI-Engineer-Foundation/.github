@@ -18,37 +18,37 @@
 
 ----
 
-## About Us
+#### About Us
 
-The AI Engineer Foundation is committed to fostering innovation in artificial intelligence engineering. We believe in the power of open-source collaboration and welcome contributions from the community to make advancements in AI technologies.
+<sub> The AI Engineer Foundation is committed to fostering innovation in artificial intelligence engineering. We believe in the power of open-source collaboration and welcome contributions from the community to make advancements in AI technologies. </sub>
 
-## Our Projects
+#### Our Projects
 
-Explore our open-source projects:
+<sub> Explore our open-source projects:</sub>
 
-- [Agent Protocol](https://github.com/AI-Engineer-Foundation/agent-protocol): The primary AI protocol specification for building intelligent agents.
+<sub>- [Agent Protocol](https://github.com/AI-Engineer-Foundation/agent-protocol): The primary AI protocol specification for building intelligent agents.</sub>
 
-- [Python SDK](https://github.com/AI-Engineer-Foundation/python-sdk): A Python SDK for building Agent Protocol enabled Agents.
+<sub>- [Python SDK](https://github.com/AI-Engineer-Foundation/agent-protocol-sdk-python): A Python SDK for building Agent Protocol enabled Agents.</sub>
 
-- [JavaScript SDK](https://github.com/AI-Engineer-Foundation/js-sdk): A JavaScript SDK for building AI-powered applications with ease.
+<sub>- [JavaScript SDK](https://github.com/AI-Engineer-Foundation/agent-protocol-sdk-js): A JavaScript SDK for building AI-powered applications with ease.</sub>
 
-- [Python Client](https://github.com/AI-Engineer-Foundation/agent-protocol-client-python): A Python client for seamless integration with Agent Protocol enabled agents.
+<sub>- [Python Client](https://github.com/AI-Engineer-Foundation/agent-protocol-client-python): A Python client for seamless integration with Agent Protocol enabled agents.</sub>
 
-## Get Involved
+#### Get Involved
 
-- **Contribute:** We welcome contributions from developers, AI enthusiasts, and anyone interested in pushing the boundaries of AI engineering. Check out our [Contribution Guide](https://agentprotocol.ai/contributing/guide) to get started.
+<sub>- **Contribute:** We welcome contributions from developers, AI enthusiasts, and anyone interested in pushing the boundaries of AI engineering. Check out our [Contribution Guide](https://agentprotocol.ai/contributing/guide) to get started.</sub>
 
-- **Report Issues:** Found a bug or have a feature request? Please [open an issue](https://github.com/AI-Engineer-Foundation/agent-protocol/issues/new/choose) on the relevant repository.
+<sub>- **Report Issues:** Found a bug or have a feature request? Please [open an issue](https://github.com/AI-Engineer-Foundation/agent-protocol/issues/new/choose) on the relevant repository.</sub>
 
-- **Documentation:** Visit our [Documentation](https://agentprotocol.ai) to learn more about our projects, APIs, and best practices.
+<sub>- **Documentation:** Visit our [Documentation](https://agentprotocol.ai) to learn more about our projects, APIs, and best practices.</sub>
 
-## Stay Connected
+#### Stay Connected
 
-Stay up-to-date with our latest developments and news:
+<sub>Stay up-to-date with our latest developments and news:</sub>
 
-- [Twitter](https://twitter.com/aiengfoundation)
-- [LinkedIn](https://www.linkedin.com/company/ai-eng-foundation/)
-- [YouTube](https://www.youtube.com/@AIEngFoundation)
-- [Discord](https://discord.gg/3zcNWTucwn)
+<sub>[Twitter](https://twitter.com/aiengfoundation)</sub>
+<sub>- [LinkedIn](https://www.linkedin.com/company/ai-eng-foundation/)</sub>
+<sub>- [YouTube](https://www.youtube.com/@AIEngFoundation)</sub>
+<sub>- [Discord](https://discord.gg/3zcNWTucwn)</sub>
 
-Thank you for joining us on our journey to advance AI engineering. Together, we can shape the future of artificial intelligence.
+<sub>Thank you for joining us on our journey to advance AI engineering. Together, we can shape the future of artificial intelligence.</sub>
