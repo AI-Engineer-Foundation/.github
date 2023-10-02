@@ -16,7 +16,7 @@
 
 #### About Us
 
-<sub> The AI Engineer Foundation is committed to fostering innovation in artificial intelligence engineering. We believe in the power of open-source collaboration and welcome contributions from the community to make advancements in AI technologies. </sub>
+<sub> The AI Engineer Foundation is committed to foster industry excellence by establishing and uplifting best practices and standards for AI Engineers through the advancement of open source software, thereby elevating collective knowledge and innovation. </sub>
 
 #### Stay Connected
 
