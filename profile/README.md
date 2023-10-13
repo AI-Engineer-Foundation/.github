@@ -25,7 +25,7 @@
 <sub>
   <p align="center">
     <a href="https://twitter.com/aiengfoundation">
-          <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/twitter.svg" alt="Twitter" height="12px"> Twitter
+          <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/icons/twitter/twitter.svg" alt="Twitter" height="12px"> Twitter
     </a>
     ·
     <a href="https://www.linkedin.com/company/ai-eng-foundation/">
