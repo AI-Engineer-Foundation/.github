@@ -29,17 +29,17 @@
     </a>
     ·
     <a href="https://www.linkedin.com/company/ai-eng-foundation/">
-          <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/linkedin.svg" alt="LinkedIn" height="12px">
+          <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/icons/linkedin/linkedin.svg" alt="LinkedIn" height="12px">
       LinkedIn
     </a>
     ·
     <a href="https://www.youtube.com/@AIEngFoundation">
-          <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/youtube.svg" alt="YouTube" height="12px">
+          <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/icons/youtube/youtube.svg" alt="YouTube" height="12px">
       YouTube
     </a>
     ·
     <a href="https://discord.gg/3zcNWTucwn">
-          <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/discord.svg" alt="Discord" height="12px">
+          <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/icons/discord/discord.svg" alt="Discord" height="12px">
           Discord
       </div>
     </a>
