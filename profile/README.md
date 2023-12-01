@@ -22,26 +22,7 @@
 
 <sub>Stay up-to-date with our latest developments and news. Thank you for joining us on our journey to advance AI engineering. Together, we can shape the future of artificial intelligence.</sub>
 
-<sub>
-  <p align="center">
-    <a href="https://twitter.com/aiengfoundation">
-          <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/icons/twitter/twitter.svg" alt="Twitter" height="12px"> Twitter
-    </a>
-    ·
-    <a href="https://www.linkedin.com/company/ai-eng-foundation/">
-          <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/icons/linkedin/linkedin.svg" alt="LinkedIn" height="12px">
-      LinkedIn
-    </a>
-    ·
-    <a href="https://www.youtube.com/@AIEngFoundation">
-          <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/icons/youtube/youtube.svg" alt="YouTube" height="12px">
-      YouTube
-    </a>
-    ·
-    <a href="https://discord.gg/3zcNWTucwn">
-          <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/icons/discord/discord.svg" alt="Discord" height="12px">
-          Discord
-      </div>
-    </a>
-  </p>
-</sub>
+[![X (formerly Twitter) Follow](https://img.shields.io/badge/-%40aiengfoundation-black?logo=X&style=flat-square)](https://x.com/aiengfoundation)
+[![LinkedIn](https://img.shields.io/badge/-AI_Engineer_Foundation-0A66C2?logo=LinkedIn&style=flat-square)](https://www.linkedin.com/company/ai-eng-foundation/)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC25iwAMTgzwqEtwLwJOzi-w?style=flat-square&logo=YouTube)](https://www.youtube.com/@AIEngFoundation)
+[![Discord](https://img.shields.io/discord/1144960932196401252?style=flat-square&logo=discord&label=AI%20Engineer%20Foundation%20Discord)](https://discord.gg/3zcNWTucwn)
